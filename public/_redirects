@@ -1,0 +1,5 @@
+# Netlify settings for single-page applications.
+# This allows use to use vue-router in history mode.
+# https://cli.vuejs.org/guide/deployment.html#netlify
+# https://www.netlify.com/docs/redirects/#history-pushstate-and-single-page-apps
+/*    /index.html   200
